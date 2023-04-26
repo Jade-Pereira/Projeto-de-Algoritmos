@@ -1,2 +1,2 @@
 # Projeto-de-Algoritmos
-Projeto de Algoritmos - Codigo da área de um raio.
+Projeto de Algoritmos - Codigos desenvolvidos em sala de aula.

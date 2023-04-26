@@ -1,2 +1,2 @@
 # Projeto-de-Algoritmos
-Projeto de Algoritmos - Alguns dos códigos de treinamento de habilidades.
+Projeto de Algoritmos - Codigo da área de um raio.
